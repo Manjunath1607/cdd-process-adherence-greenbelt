@@ -1,7 +1,7 @@
 # 🛡️ CDD Process Adherence Improvement – Six Sigma Green Belt Project
 
 **Project Type**: Lean Six Sigma Green Belt  
-**Domain**: Banking & Compliance  
+**Domain**: Process Compliance & Automation 
 **Prepared by**: K.S. Manjunath
 
 ---
