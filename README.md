@@ -65,3 +65,10 @@ Improve Client Due Diligence (CDD) process adherence to the target of 99% throug
 ## 📜 License
 
 MIT License – reuse permitted with attribution.
+
+## ✍️ Attribution
+
+** K.S. Manjunath created this project** as part of his Six Sigma Black Belt learning journey.  
+All content, analysis, and structure reflect original work using simulated data.  
+Feel free to learn from it, but please give credit if you reuse it.  
+Plagiarism or unauthorized replication is discouraged and may result in takedown reporting.
